@@ -136,7 +136,6 @@ sed -i -e "s/ abuot / about /g" \
 -e "s/ numbers / number /g" \
 -e "s/ oech / o /g" \
 -e "s/ okey / okay /g" \
--e "s/ oki / okay /g" \
 -e "s/ ok / okay /g" \
 -e "s/ onee / one /g" \
 -e "s/ onr / one /g" \
