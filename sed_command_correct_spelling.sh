@@ -12,7 +12,7 @@ sed -i -e "s/ abuot / about /g" \
 -e "s/ absolutly / absolutely /g" \
 -e "s/ accross / across /g" \
 -e "s/ afternooon / afternoon /g" \
--e "s/ adise / advice /g" \
+-e "s/ adise / advise /g" \
 -e "s/ aibus / airbus /g" \
 -e "s/ airbone / airborne /g" \
 -e "s/ airfied / airfield /g" \
