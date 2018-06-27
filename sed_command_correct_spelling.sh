@@ -16,7 +16,7 @@ sed -i -e "s/ abuot / about /g" \
 -e "s/ aibus / airbus /g" \
 -e "s/ airbone / airborne /g" \
 -e "s/ airfied / airfield /g" \
--e "s/ airfrans / air france /g" \
+-e "s/ air france / airfrans /g" \
 -e "s/ alpa / alpha /g" \
 -e "s/ altitutde / altitude /g" \
 -e "s/ amoro / amolo /g" \
